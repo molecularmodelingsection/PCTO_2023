@@ -1,0 +1,15 @@
+SEAMDOCK
+https://bioserv.rpbs.univ-paris-diderot.fr/services/SeamDock/
+
+POSEVIEW
+https://proteins.plus/
+
+PDB
+https://www.rcsb.org/
+
+mu (morfina) = 8ef6
+mpro (paxlovid) = 7rfw
+a2a (caffeina) = 5mzp
+
+visualizzatori molecolari (da installare):
+- chimera (https://www.cgl.ucsf.edu/chimera/download.html)
